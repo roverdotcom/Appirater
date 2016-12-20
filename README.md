@@ -1,3 +1,8 @@
+Notes
+-----
+This is a copy of a deleted github repository.  The original project and git history can be [found here](https://github.com/arashpayan/appirater).
+
+
 Introduction
 ------------
 Appirater is a class that you can drop into any iPhone app (iOS 4.0 or later) that will help remind your users
